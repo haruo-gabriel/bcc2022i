@@ -1,2 +1,5 @@
-# BCC-2022.1
-all files from the first semester of 2022
+# bcc2022i
+
+todos os projetos do primeiro semestre de 2022
+
+
